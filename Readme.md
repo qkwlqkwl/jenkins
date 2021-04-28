@@ -10,4 +10,5 @@
 - 填入设备的chromwebdriver文件的全路径
 
 运行命令：
-pytest -sv test/web_ut.py --alluredir ./allure-results
+pytest -sv iSelenium_Python/test/web_ut.py --alluredir ./allure-results
+pytest -sv C:\Users\Jingjing\PycharmProjects\pythonProject1\iSelenium_Python\test\web_ut.py --alluredir ./allure-results
